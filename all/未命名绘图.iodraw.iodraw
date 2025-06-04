@@ -172,7 +172,7 @@
         <mxCell id="ekVuZ0Qk52_7VpnME7mR-52" value="&lt;font color=&quot;#0066cc&quot;&gt;注：：&lt;span style=&quot;background-color: initial;&quot;&gt;随机数：根据后配配置0.1-1.0区间的值，去匹配本地随机的值，30%几率展示chrome，70%展示2.1样式&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="960" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekVuZ0Qk52_7VpnME7mR-53" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff00ff&quot;&gt;原有逻辑，随机数放在展示页面去调用，根据几率展示2.1or2.2&lt;br&gt;现有逻辑，随机数放在触发应用内H5触发点，根据几率展示2.1or chrome&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ekVuZ0Qk52_7VpnME7mR-53" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff00ff&quot;&gt;原有逻辑，随机数放在展示页面去调用，根据几率展示2.1or2.2&lt;br&gt;现有逻辑，默认展示2.1，广告加载失败（onAdEmpty）直接展示chrome&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="1000" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekVuZ0Qk52_7VpnME7mR-54" value="&lt;font color=&quot;#ff0000&quot;&gt;注意：：只有广告展示，或者广告回调onAdEmpty时，页面才是可见的&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
