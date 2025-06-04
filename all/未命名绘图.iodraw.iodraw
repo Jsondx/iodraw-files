@@ -181,8 +181,8 @@
         <mxCell id="ekVuZ0Qk52_7VpnME7mR-54" value="&lt;font color=&quot;#ff0000&quot;&gt;注意：：只有广告展示，或者广告回调onAdEmpty时，页面才是可见的&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="1070" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mDnn9GooSwd891TkqaPQ-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="mDnn9GooSwd891TkqaPQ-1" value="异常：没有回调" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
