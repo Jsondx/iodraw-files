@@ -181,7 +181,7 @@
         <mxCell id="ekVuZ0Qk52_7VpnME7mR-54" value="&lt;font color=&quot;#ff0000&quot;&gt;注意：：只有广告展示，或者广告回调onAdEmpty时，页面才是可见的&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="1070" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mDnn9GooSwd891TkqaPQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mDnn9GooSwd891TkqaPQ-1">
+        <mxCell id="mDnn9GooSwd891TkqaPQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDnn9GooSwd891TkqaPQ-1" target="mDnn9GooSwd891TkqaPQ-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790.1379310344828" y="1050.0000000000002" as="targetPoint" />
           </mxGeometry>
@@ -190,7 +190,7 @@
           <mxGeometry x="730" y="950" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mDnn9GooSwd891TkqaPQ-4" value="界面不显示。超时自己关闭页面（不可见页面）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="990" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
