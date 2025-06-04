@@ -189,7 +189,7 @@
         <mxCell id="mDnn9GooSwd891TkqaPQ-1" value="异常：没有回调" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mDnn9GooSwd891TkqaPQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mDnn9GooSwd891TkqaPQ-4" value="界面不显示。超时自己关闭页面（不可见页面）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1050" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
